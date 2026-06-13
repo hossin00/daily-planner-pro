@@ -1,0 +1,27 @@
+{
+  "name": "Daily Planner Pro",
+  "short_name": "Daily",
+  "description": "Daily schedule planner with habits and goals.",
+  "start_url": "/daily-planner-pro/",
+  "scope": "/daily-planner-pro/",
+  "display": "standalone",
+  "background_color": "#080a08",
+  "theme_color": "#22c55e",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/daily-planner-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/daily-planner-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
